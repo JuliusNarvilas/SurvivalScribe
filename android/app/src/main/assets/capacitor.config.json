@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "SurvivalScribe",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
